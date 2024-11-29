@@ -1,0 +1,19 @@
+{
+    "lang" : "pt-br",
+    "name" : " Segunda Avaliação de PDM2",
+    "short_name" : "PWAReceita",
+    "start_url" : "/index.html",
+    "display" : "standalone",
+    "icons" :[
+        {
+            "src" : "/images/pwa-ben-256.png",
+            "sizes" : "256x256",
+            "type" : "image/png"
+        },
+        {
+            "src" : "/images/pwa-mcqueen-512.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+        ]
+}
